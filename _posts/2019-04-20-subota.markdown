@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "subota"
+date:   2019-04-20 07:25:24 +0200
+categories: jekyll update
+---
+
+
+Ognjen 3.5  
+
+***
+
+lasicaDj 11
+jegarski 7  
+
+***
+
+bacic 5  
+anikic 4  
+
+***
+
+obradovic 5  
+maljkovic 2  
+petkovic 5  
+nesin 6  
+Radoica 3  
+vukov 6.5  
+
+***
+
+macuraD 3  
+kovacevic 4  
+Milisav 6  
+stojkovic 1  

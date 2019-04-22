@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "cetvrtak"
+date:   2019-04-18 07:25:24 +0200
+categories: jekyll update
+---
+Ognjen 1 
+
+***
+
+lasicaDj 3.5  
+milosev 3  
+cvjeticanin 0.5  
+jegarski 2  
+
+***
+
+bacic 2  
+anikic 2  
+Sava 4  
+
+***
+
+obradovic 1  
+maljkovic 1  
+petkovic 1  
+nesin 1  
+Radoica 2  
+
+***
+
+macuraD 1  
+
+ 

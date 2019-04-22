@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "petak"
+date:   2019-04-19 07:25:24 +0200
+categories: jekyll update
+---
+
+
+milosev 2  
+jegarski 2  
+
+***
+
+bacic 2  
+anikic 2  
+Sava 2  
+
+***
+
+obradovic 3  
+maljkovic 2  
+petkovic 3  
+pisaric 5  
+nesin 1  
+Radoica 1  
+
+***
+
+macuraD 2  
+kovacevic 3  
+Milisav 3  
+vukov 5  
+
+
+
+
+
+
+
+
+
+
+
+
