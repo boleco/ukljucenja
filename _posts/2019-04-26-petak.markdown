@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "petak"
+date:   2019-04-26 07:25:24 +0200
+categories: jekyll update
+---
+
+
+protic 2  
+
+***
+
+miksadM 1  
+
+***
+
+lasicaDj 2  
+milosev 1  
+jegarski 3  
+
+***
+
+bacic 1  
+
+***
+
+obradovic 0.5  
+lakatos 0.5  
+vukov 2  
+
+
+
+
+
+
+
+
+
