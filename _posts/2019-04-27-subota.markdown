@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "subota"
+date:   2019-04-27 07:25:24 +0200
+categories: jekyll update
+---
+
+
+protic 5 
+andric 3   
+
+***
+
+miksadM 5  
+
+***
+
+lasicaDj 6  
+milosev 7  
+
+***
+
+bacic 2  
+savaS 2  
+
+***
+
+obradovic 4  
+nesin 8  
+vukov 7  
+
+
+***
+
+macuraD 0.5  
+milic 0.5  
+Milisav 5  
+stojkovic 1  
