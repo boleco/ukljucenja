@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "petak"
+date:   2019-05-10 07:25:24 +0200
+categories: jekyll update
+---
+
+protic 1  
+
+***
+
+jovin 1  
+
+***
+
+lasicaDj 6  
+
+***
+
+Sava 2  
+piroski 1  
+
+***
+
+obradovic 1  
+mendjan 3  
+pisaric 3  
+
+***
+
+kovacevic 3  
+Milisav 7  
+stojkovic 3  
