@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "utorak"
+date:   2019-05-14 07:25:24 +0200
+categories: jekyll update
+---
+
+mazic 2  
+
+***
+
+lasicaDj 3,5  
+slijepcevic 2  
+lasicaP 0,5  
+
+***
+
+Savas 3  
+
+***
+
+obradovic 2  
+jovic 2  
+mendjan 1  
+nesin 3  
+
+
+
