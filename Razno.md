@@ -1,7 +1,7 @@
 ---
 layout: page
-title: klikwfm
-permalink: /klikwfm/
+title: Razno
+permalink: /Razno/
 ---
 
 
