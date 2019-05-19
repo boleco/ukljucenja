@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "subota"
+date:   2019-05-18 07:25:24 +0200
+categories: jekyll update
+---
+
+pal 3  
+andric 8  
+
+***
+
+miksadD 6  
+
+***
+
+lasicaDj 7  
+slijepcevic 5  
+milosev 10  
+lasicaP 3  
+
+***
+
+Savas 12  
+piroski 6  
+
+***
+
+jovic 8  
+mendjan 6  
+nesin 9  
+
+***
+
+kovacevic 5  
+stojkovic 6  
