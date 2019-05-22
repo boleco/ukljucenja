@@ -10,9 +10,3 @@ mazic 1
 ***
 
 mendjan 2  
-
-***
-
-tibika 0,5  
-yelimir 0,5  
-
