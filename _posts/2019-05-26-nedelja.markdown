@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "nedelja"
+date:   2019-05-26 13:14:41 +0200
+categories: jekyll update
+---
+
+Ognjen 8  
+
+***
+
+milosev 5  
+
+***
+
+Savas 8  
+piroski 6  
+bacic 3  
+
+***
+
+obradovic 3  
+jovic 7  
+petkovic 7  
+mendjan 7  
+nesin 7  
+
