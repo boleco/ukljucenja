@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "cetvrtak"
+date:   2019-05-30 13:14:41 +0200
+categories: jekyll update
+---
+
+protic 1  
+cizmar 2  
+
+***
+
+slijepcevic 1  
+milosev 3  
+
+***
+
+anikic 4  
+piroski 3  
+
+***
+
+jovic 3  
+petkovic 2  
+mendjan 3  
+
+***
+
+Leon 4  
+Milisav 1  
