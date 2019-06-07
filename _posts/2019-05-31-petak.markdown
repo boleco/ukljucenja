@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "petak"
-date:   2019-05-31 13:14:41 +0200
+date:   2019-05-31 07:25:24 +0200
 categories: jekyll update
 ---
 
@@ -18,10 +18,10 @@ milosev 1
 
 ***
 
-bacic 2  
-anikic 1  
 maric 0.5  
-Strahinja 0.5  
+miskic 0.5  
+anikic 1  
+bacic 2  
 
 ***
 
