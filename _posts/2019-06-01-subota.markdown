@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "petak"
-date:   2019-05-31 07:25:24 +0200
+title:  "subota"
+date:   2019-06-01 07:25:24 +0200
 categories: jekyll update
 ---
 

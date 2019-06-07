@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "nedelja"
+date:   2019-06-02 07:25:24 +0200
+categories: jekyll update
+---
+
+
+
+
+maric 3.5  
+miskic 2.5  
+bacic 6  
+
+***
+
+jovic 5  
+lakatos 2  
+nesin 1  
+Radoica 4  
+
+***
+
+Leon 3  
