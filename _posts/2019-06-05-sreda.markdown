@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "sreda"
+date:   2019-06-05 07:25:24 +0200
+categories: jekyll update
+---
+
+protic 2  
+
+***
+
+MiksadM 0.5  
+Ognjen 0.5  
+
+***
+
+slijepcevic 1  
+milosev 1  
+svjeticanin 1  
+
+***
+
+Savas 1  
+anikic 2  
+bacic 2  
+
+***
+
+jovic 2.5  
+gurdeljevic 0.5  
+lakatos 2  
+mendjan 1  
