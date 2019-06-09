@@ -5,38 +5,38 @@ date:   2019-06-08 07:25:24 +0200
 categories: jekyll update
 ---
 
-andric 5
-protic 4
+andric 5  
+protic 4  
 
 ***
 
-lugonja 0.2
-popov 0.2
-miksadM 3.2
-Ognjen 3.2
-jovin 7.2
+lugonja 0.2  
+popov 0.2  
+miksadM 3.2  
+Ognjen 3.2  
+jovin 7.2  
 
 ***
 
-slijepcevic 7
-jegarski 3
+slijepcevic 7  
+jegarski 3  
 
 ***
 
-Savas 3
-maric 7
-piroski 5
-anikic 3
-bacic 5
+Savas 3  
+maric 7  
+piroski 5  
+anikic 3  
+bacic 5  
 
 ***
 
-jovic 5
-mendjan 4
-Radoica 3
+jovic 5  
+mendjan 4  
+Radoica 3  
 
 ***
 
-Milisav 3
-ostojic 4
-vukov 5
+Milisav 3  
+ostojic 4  
+vukov 5  
