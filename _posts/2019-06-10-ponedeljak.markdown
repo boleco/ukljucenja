@@ -6,6 +6,4 @@ categories: jekyll update
 ---
 
 milosev 3  
-lasicaP 1  
-
-  
+lasicaP 1    
