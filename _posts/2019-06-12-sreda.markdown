@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "sreda"
+date:   2019-06-12 07:25:24 +0200
+categories: jekyll update
+---
+
+milosev 1  
+
+***
+
+bacic 3  
+anicic 2  
+maric 1  
+piroski 1  
+
+***
+
+ostojic 3  
+macuraD 1  
+sofronic 1  
+vukov 4  
