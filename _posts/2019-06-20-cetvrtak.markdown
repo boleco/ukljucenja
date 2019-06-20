@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "cetvrtak"
+date:   2019-06-20 07:25:24 +0200
+categories: jekyll update
+---
+
+
+pal 2  
+andric 1  
+
+***
+
+jovin 3  
+
+***
+
+milosev 3  
+lasicaDj 5  
+slijepcevic 3  
+
+***
+
+Savas 3  
+piroski 2  
+anikic 2  
+
+***
+
+jovic 3  
+milic 2  
+mendjan 5  
+veselinovic 4  
+petkovic 2  
+pisaric 2  
+gurdeljevic 2  
+Radoica 1  
+
+***
+
+macuraD 2  
+vukov 5  
