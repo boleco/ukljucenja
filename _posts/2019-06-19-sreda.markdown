@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "sreda"
+date:   2019-06-19 07:25:24 +0200
+categories: jekyll update
+---
+
+
+andric 2  
+
+***
+
+milosev 1  
+lasicaDj 1  
+
+***
+
+Savas 2  
+
+***
+
+mendjan 1  
+veselinovic 1  
+
+***
+
+macuraD 0.5  
+sofronic 0.5  
