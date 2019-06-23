@@ -6,36 +6,35 @@ categories: jekyll update
 ---
 
 
-pal 6
-andric 6
+pal 6  
+andric 6  
 
 ***
 
-jovin 8
+jovin 8  
 
 ***
 
-milosev 8
-lasicaDj 9
+milosev 8  
+lasicaDj 9  
 
 ***
 
-piroski 6
-anikic 8
-maric 5
-miskic 2
+piroski 6  
+anikic 8  
+maric 5  
+miskic 2  
 
 ***
 
-jovic 7
-milic 6
-mendjan 
-veselinovic 6
-pisaric 4
-Radoica 3
+jovic 7  
+milic 6  
+veselinovic 6  
+pisaric 4  
+Radoica 3  
 
 ***
 
-macuraD 4
-kovacevic 4
-vukov 10
+macuraD 4  
+kovacevic 4  
+vukov 10  
