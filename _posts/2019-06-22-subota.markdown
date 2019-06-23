@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "subota"
+date:   2019-06-22 07:25:24 +0200
+categories: jekyll update
+---
+
+
+pal 6
+andric 6
+
+***
+
+jovin 8
+
+***
+
+milosev 8
+lasicaDj 9
+
+***
+
+piroski 6
+anikic 8
+maric 5
+miskic 2
+
+***
+
+jovic 7
+milic 6
+mendjan 
+veselinovic 6
+pisaric 4
+Radoica 3
+
+***
+
+macuraD 4
+kovacevic 4
+vukov 10
