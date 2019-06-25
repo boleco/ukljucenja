@@ -20,15 +20,15 @@ Clickmobile 8.3
 
 Podesavanje za Clickmobile aplikaciju:
 
-Nakon instalacije se u "Settings" (Podesavanja) pojavi tekst _**http://server-ip/clickmobileweb/default.aspx**_
+Nakon instalacije se u "Settings" (Podesavanja) pojavi tekst **_http://server-ip/clickmobileweb/default.aspx_**
 
-Umesto tog teksta treba upisati _**https://wfm.telekom.rs/clickmobileweb/default.aspx?culture=sr&uiculture=sr**_
+Umesto tog teksta treba upisati **_https://wfm.telekom.rs/clickmobileweb/default.aspx?culture=sr&uiculture=sr_**
 
 Moze se i samo preraditi prvobitni tekst u 3 koraka:
 
-1. Posle *http* dodati *s* tako da pise *https*
-2. Umesto *server-ip* treba upisati *wfm.telekom.rs*
-3. Posle *aspx* treba dodati *?culture=sr&uiculture=sr* tako da pise *aspx?culture=sr&uiculture=sr*
+1. Posle **_http_** dodati **_s_** tako da pise **_https_**
+2. Umesto **_server-ip_** treba upisati **_wfm.telekom.rs_**
+3. Posle **_aspx_** treba dodati **_?culture=sr&uiculture=sr_** tako da pise **_aspx?culture=sr&uiculture=sr_**
 
 
 ***
