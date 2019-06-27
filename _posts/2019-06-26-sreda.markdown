@@ -14,11 +14,10 @@ miksadD 1.5
 popov 1.5  
 miksadM 3.5  
 Ognjen 3.5  
-jovin  1  
-
+jovin 1  
 ***
 
-lasicaDj  4  
+lasicaDj 4  
 
 ***
 
