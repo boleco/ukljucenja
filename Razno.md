@@ -38,4 +38,30 @@ Uputstvo za reset STB-a se nalazi na ovom linku
 
 [Reset STB-a]()
 
+>UPUTSTVO ZA RESET STB-A
+>
+>POMOĆU DALJINSKOG SE STB MOŽE RESETOVATI NA FABRIČKO PODEŠAVANJE
+>
+>
+>
+>TREBA ISPRATITI SLEDEĆE KOMANDE:
+>
+>1. Ukucati *104030*
+>
+>2. Odmah zatim stisnuti dugme SETTING (liči na zupčanik, nalazi se iznad dugmeta VOD)
+>
+>3. Ukucati 8288
+>
+>4. Izabrati OK
+>
+>5. Izabrati LOAD DEFAULT
+>
+>6. Ukucati 3008
+>
+>7. Izabrati OK
+>
+>
+>
+>ČEKATI STRPLJIVO...
+>
 ***
