@@ -33,12 +33,9 @@ Moze se i samo preraditi prvobitni tekst u 3 koraka:
 
 ***
 
-Reset STB-a
-Uputstvo za reset STB-a
 
 
-
->#UPUTSTVO ZA RESET STB-A
+># UPUTSTVO ZA RESET STB-A
 >
 >POMOĆU DALJINSKOG SE STB MOŽE RESETOVATI NA FABRIČKO PODEŠAVANJE
 >
@@ -63,5 +60,5 @@ Uputstvo za reset STB-a
 >
 >
 >ČEKATI STRPLJIVO...
->
+
 ***
