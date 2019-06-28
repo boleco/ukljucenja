@@ -6,30 +6,30 @@ categories: jekyll update
 ---
 
 
-mazic 4
-protic 1
+mazic 4  
+protic 1  
 
 ***
   
-miksadM  0.5
-Ognjen 0.5
-jovin 1
+miksadM  0.5  
+Ognjen 0.5  
+jovin 1  
 
 ***
 
-lasicaDj 1
+lasicaDj 1  
 
 ***
 
-anikic 1
-piroski 1
+anikic 1  
+piroski 1  
 
 ***
  
-nesin 2
-veselinovic 3
-pisaric 1
+nesin 2  
+veselinovic 3  
+pisaric 1  
 
 ***
 
-Leon 2
+Leon 2  
