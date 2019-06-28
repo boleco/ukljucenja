@@ -46,7 +46,7 @@ Uputstvo za reset STB-a se nalazi na ovom linku
 >
 >TREBA ISPRATITI SLEDEĆE KOMANDE:
 >
->1. Ukucati *104030*
+>1. Ukucati \*104030\*
 >
 >2. Odmah zatim stisnuti dugme SETTING (liči na zupčanik, nalazi se iznad dugmeta VOD)
 >
