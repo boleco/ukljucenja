@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "petak"
+date:   2019-06-28 07:25:24 +0200
+categories: jekyll update
+---
+
+
+protic 6  
+
+***
+
+miksadD 1  
+popov 1  
+jovin 1  
+
+***
+
+lasicaDj 3  
+
+***
+
+anikic 1  
+piroski 1  
+
+***
+
+jovic 3  
+mendjan 3  
+nesin 2  
+pisaric 1  
+
+***
+
+Leon 4  
