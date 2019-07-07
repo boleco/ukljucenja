@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "subota"
+date:   2019-07-06 07:25:24 +0200
+categories: jekyll update
+---
+
+protic 6  
+andric 4  
+
+***
+
+miksadD 5  
+miksadM 1.5  
+Ognjen 1.5  
+
+
+***
+
+lasicaDj 12  
+slijepcevic 4  
+lasicaP 3  
+
+***
+
+anikic 4  
+bacic 4  
+
+***
+
+obradovic 5  
+pisaric 5  
+nesin 6  
+
+***
+
+Milisav 7  
+Leon 6  
