@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "petak"
+date:   2019-08-09 07:25:24 +0200
+categories: jekyll update
+---
+
+
+komaromi 1  
+pal 1  
+andric 2  
+
+***
+
+jovin 5  
+
+***
+
+slijepcevic 2  
+milosev 3  
+lasicaDj 2  
+
+***
+
+bacic 3  
+anikic 2  
+maric 1  
+
+***
+
+obradovic 4  
+mendjan 5  
+mihic 3  
+
+***
+
+gmitrović 4  
+ostojic 3  
+vukov 5  
+Milisav 3  
