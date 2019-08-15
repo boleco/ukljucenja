@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "cetvrtak"
+date:   2019-08-15 07:25:24 +0200
+categories: jekyll update
+---
+
+jovin 2  
+
+***
+
+slijepcevic 2  
+lasicaDj 3  
+
+***
+
+vidojevic 1  
+anikic 1  
+maric 3  
+
+***
+
+obradovic 2  
+jovic 4  
+nesin 3  
