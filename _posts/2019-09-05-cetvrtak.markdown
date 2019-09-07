@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "cetvrtak"
+date:   2019-09-05 07:25:24 +0200
+categories: jekyll update
+---
+
+miksadD 0.5  
+popov 0.5  
+
+***
+
+slijepcevic 1  
+milosev 1  
+jegarski 2  
+ 
+***
+
+Sava 3  
+bacic 2  
+
+***
+
+jovic 3  
+nesin 1  
+
+***
+
+vukov 4  
