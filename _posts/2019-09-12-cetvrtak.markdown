@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "cetvrtak"
+date:   2019-09-12 07:25:24 +0200
+categories: jekyll update
+---
+
+Tibor 0.5  
+pavlov 0.5  
+
+***
+
+mazic 1  
+
+***
+
+Sava 0.5  
+
+***
+
+Nesin 1  
+pisaric 1  
