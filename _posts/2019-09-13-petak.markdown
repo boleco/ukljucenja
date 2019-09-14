@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "petak"
+date:   2019-09-13 07:25:24 +0200
+categories: jekyll update
+---
+
+mazic 1  
+
+***
+
+milosev 3  
+jegarski 1  
+
+***
+
+Sava 3  
+
+***
+
+nesin 6  
+
+***
+
+
+macuraD 1  
+Leon 1  
+lisic 1  
+pavkov 3  
