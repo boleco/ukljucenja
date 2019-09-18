@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "utorak"
+date:   2019-09-17 07:25:24 +0200
+categories: jekyll update
+---
+
+pavlov 0.5  
+ferko 0.5  
+
+***
+
+andricZ 1  
+
+***
+
+jovin 1  
+
+***
+
+Sava 3.5  
+
+***
+
+Milisav 1  
+Leon 0.5  
+lisic 0.5  
+lopicic 4  
