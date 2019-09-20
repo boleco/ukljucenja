@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "cetvrtak"
+date:   2019-09-19 07:25:24 +0200
+categories: jekyll update
+---
+
+komaromi 2  
+andricZ 1  
+
+***
+
+jovin 1  
+
+***
+
+milosev 1  
+calenic 0.5  
+
+***
+
+Sava 2  
+piroski 2  
+
+***
+
+mendjan 3  
+
+***
+
+ostojic 0.5  
+sofronic 0.5  
+Uros 4  
