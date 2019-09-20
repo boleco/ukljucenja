@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "sreda"
+date:   2019-09-18 07:25:24 +0200
+categories: jekyll update
+---
+
+AndricZ 4  
+
+***
+
+milosev 2  
+calenic 1  
+
+***
+
+bacic 3  
+Sava 1  
+piroski 3  
+
+***
+
+Erne 1  
+Milisav 2  
+Leon 0.5  
+lisic 0.5  
+Uros 2  
