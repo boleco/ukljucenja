@@ -57,4 +57,44 @@ Moze se i samo preraditi prvobitni tekst u 3 koraka:
 # Android aplikacija VeleprodajniParametri
   
 Aplikacija VeleprodajniParametri je android aplikacija koja treba da olakša unos Parametara konekcije u Click mobile aplikaciju u slučaju smetnji kod korisnika veleprodaje.  
-[Preuzmi aplikaciju](https://github.com/boleco/VeleprodajniParametri/blob/master/VeleprodajniParametri.apk)
+[Preuzmi aplikaciju](https://github.com/boleco/VeleprodajniParametri/blob/master/
+VeleprodajniParametri.apk)
+
+***
+
+# Podesavanja za mobilni internet na mobilnim telefonima
+
+
+>	U spisku svih aplikacija izaberite ikonu SETTINGS
+>
+>	U SETTINGS meniju izaberite stavku WIRELESS & NETWORKS i potom MOBILE NETWORKS,
+>
+>	Otvoriæe se dodatni meni, odaberite stavku ACCESS POINT NAMES
+>
+>	Pritisnite meni dugme na ureðaju i odaberite opciju NEW APN
+>
+>	U polje NAME treba ukucati: mts wap
+>
+>	U polje APN treba ukucati: gprswap
+>
+>	U polje PROXY treba ukucati: 172.017.088.198
+>
+>	U polje PORT treba ukucati: 8080
+>
+>	U polje USERNAME treba ukucati: mts
+>
+>	U polje PASSWORD treba ukucati: 064
+>
+>	U polje SERVER treba ukucati http://m.mondo.rs
+>
+>	U polje MMSC, MMS PROXY, MMS PORT ne upisujete ništa
+>
+>	U polju MCC treba da stoji: 220
+>
+>	U polju MNC treba da stoji: 03
+>
+>	Polje AUTHENTICATION TYPE podesiti na PAP
+>
+>	U zavisnosti od ureðaja, polje APN TYPE ostavite prazno ili izaberite/upišite internet
+
+***
