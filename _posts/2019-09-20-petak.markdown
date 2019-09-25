@@ -32,4 +32,4 @@ savicM 2
 horvatic 2  
 ostojic 0.5  
 sofronic 0.5  
-lopicic 5  
+lopicic 6  
