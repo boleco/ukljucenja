@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "utorak"
+date:   2019-09-24 07:25:24 +0200
+categories: jekyll update
+---
+
+ferko 0.33  
+pavlov 0.33  
+sič 0.33  
+
+***
+
+popov 1.5  
+lugonja 1.5  
+
+***
+
+milosev 1  
+lasicaDj 1  
+
+***
+
+Sava 5  
+
+***
+
+maljkovic 0.5  
+veselinovic 0.5  
+
+***
+
+savicM 1.5  
+horvatic 1.5  
