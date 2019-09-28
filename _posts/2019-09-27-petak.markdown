@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "petak"
+date:   2019-09-27 07:25:24 +0200
+categories: jekyll update
+---
+
+ferko 1  
+
+***
+
+andricZ 3  
+protic 1  
+
+***
+
+milosev 2  
+lasicaDj 1  
+
+***
+
+Sava 1  
+maric 1  
+piroski 3  
+bacic 1  
+
+***
+
+jovic 4  
+maljkovic 1.5  
+veselinovic 1.5  
+nesin 3  
+
+***
+
+sofronic 1  
+Milisav 1  
+Leon 1.5  
+lisic 1.5  
+milic 0.5  
+kekenj 0.5  
+macuraD 0.5  
+Erne 0.5  
+pavkov 0.5  
+lopicic 0.5  
+savicM 2  
+horvatic 2  
