@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "sreda"
+date:   2019-09-25 07:25:24 +0200
+categories: jekyll update
+---
+
+andricZ 2  
+
+***
+
+jovin 3  
+
+***
+
+milosev 2  
+lasicaDj 9  
+
+***
+
+Sava 7  
+maric 2.5  
+piroski 0.5  
+puskovic 0.5  
+
+***
+
+jovic 3  
+mendjan 0.5  
+nesin 4  
