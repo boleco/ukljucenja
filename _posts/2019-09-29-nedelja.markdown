@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "nedelja"
+date:   2019-09-29+ 07:25:24 +0200
+categories: jekyll update
+---
+
+milosev 6  
+
+***
+
+bacic 3  
+maric 5.5  
+piroski 4.5  
+
+***
+
+veselinovic 1  
