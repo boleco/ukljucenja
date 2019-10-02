@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "utorak"
+date:   2019-10-01 07:25:24 +0200
+categories: jekyll update
+---
+
+komaromi 1  
+protic 1  
+cizmar 1  
+
+***
+
+jovin 1  
+Ognjen 1  
+miksadD 1  
+miksadM 2  
+popov 2  
+
+***
+
+lasicaDj 1  
+
+***
+
+bacic 1  
+maric 2  
+
+***
+
+nesin 1  
+maljkovic 1.5  
+veselinovic 1.5  
+
+***
+
+Milisav 1  
+Leon 1  
+lisic 1  
+savic 1  
+horvatic 1  
+milic 2  
+kekenj 2  
