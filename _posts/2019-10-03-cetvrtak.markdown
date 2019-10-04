@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "cetvrtak"
+date:   2019-10-03 07:25:24 +0200
+categories: jekyll update
+---
+
+cizmar 5  
+
+***
+
+jovin 2  
+popov 0.5  
+Ognjen 0.5  
+
+***
+
+lasicaDj 3  
+
+***
+
+Sava 5  
+piroski 3  
+
+***
+
+jovic 4  
+maljkovic 0.5  
+veselinovic 0.5  
+gurdeljevic 2.5  
+petkovic 2.5  
+
+***
+
+vukov 1  
+Milisav 2  
+Leon 0.5  
+lisic 0.5  
+macuraD 1.5  
+Erne 1.5  
+Uros 1.5  
+pavkov 1.5  
+savicM 1.5  
+horvatic 1.5  
+kekenj 3  
