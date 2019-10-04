@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "sreda"
+date:   2019-10-02 07:25:24 +0200
+categories: jekyll update
+---
+
+gabriel 0.5  
+ferko 0.5  
+
+***
+
+cizmar 2  
+
+***
+
+milosev 2  
+
+***
+
+bacic 1  
+Sava 1  
+piroski 2  
+miskic 1  
+
+***
+
+nesin 2  
+maljkovic 0.5  
+veselinovic 0.5  
+
+***
+
+macuraD 0.5  
+Erne 0.5  
+savic 1  
+horvatic 1  
+milic 0.5  
+kekenj 0.5  
