@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "subota"
+date:   2019-10-05 07:25:24 +0200
+categories: jekyll update
+---
+
+protic 5  
+cizmar 9  
+
+***
+
+jovin 7  
+miksadD 2  
+miksadM 2  
+Ognjen 1  
+
+***
+
+milosev 5  
+
+***
+
+Sava 9  
+bacic 2  
+piroski 4  
+
+***
+
+jovic 9  
+veselinovic 5  
+
+***
+
+ostojic 3  
+macuraD 5  
+Milisav 3  
