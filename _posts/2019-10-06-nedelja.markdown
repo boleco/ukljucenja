@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "nedelja"
+date:   2019-10-06 07:25:24 +0200
+categories: jekyll update
+---
+
+lasicaDj 4  
+
+***
+
+maric 2  
+
+***
+
+gurdeljevic 5  
+petkovic 5  
+nesin 4  
+
+***
+
+vukov 7  
