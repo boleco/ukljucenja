@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "sreda"
+date:   2019-10-09 07:25:24 +0200
+categories: jekyll update
+---
+
+andricZ 1  
+
+***
+
+Jovin 1  
+
+***
+
+slijepcevic 2  
+milosev 1  
+
+***
+
+nesin 2  
+Ratkomir 0.5  
+Pisaric 0.5  
+
+***
+
+vukov 3  
