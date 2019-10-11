@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "cetvrtak"
+date:   2019-10-10 07:25:24 +0200
+categories: jekyll update
+---
+
+andricZ 1  
+
+***
+
+milosev 2  
+lasicaDj 3  
+lasicaP 1  
+Milanko 1  
+nikolic 0.5  
+stambolija 0.5  
+slijepcevic 2  
+cvjeticanin 1  
+jegarski 1  
+
+***
+
+bacic 2  
+Sava 1  
+piroski 1  
+
+***
+
+nesin 4  
+obradovic 1.5  
+maljkovic 1.5  
+petkovic 0.5  
+gurdeljevic 0.5  
+mihic 0.5  
+veselinovic 0.5  
+jovic 1  
+Ratkomir 1  
+
+***
+
+vukov 6  
+macuraD 0.5  
+lopicic 0.5  
+sofronic 1  
+lisic 1  
+SavicM 1  
+pavkov 1  
