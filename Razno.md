@@ -57,15 +57,7 @@ Moze se i samo preraditi prvobitni tekst u 3 koraka:
 # Android aplikacija VeleprodajniParametri
   
 Aplikacija VeleprodajniParametri je android aplikacija koja treba da olakša unos Parametara konekcije u Click mobile aplikaciju u slučaju smetnji kod korisnika veleprodaje.  
-[Preuzmi aplikaciju](https://github.com/boleco/VeleprodajniParametri/blob/master/
-VeleprodajniParametri.apk)
-
-***
-  
-# Android aplikacija ParametriKonekcije
-  
-Aplikacija VeleprodajniParametri je android aplikacija koja treba da olakša unos Parametara konekcije u Click mobile aplikaciju u slučaju potrebe (recimo u slučaju smetnji kod korisnika veleprodaje).  
-[Preuzmi aplikaciju](https://github.com/boleco/Parametri_konekcije/blob/master/Parametri_konekcije.apk)
+[Preuzmi aplikaciju](http://ai2.appinventor.mit.edu/b/6hkp)
 
 ***
 # Podesavanja za mobilni internet na mobilnim telefonima
