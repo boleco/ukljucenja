@@ -57,7 +57,15 @@ Moze se i samo preraditi prvobitni tekst u 3 koraka:
 # Android aplikacija VeleprodajniParametri
   
 Aplikacija VeleprodajniParametri je android aplikacija koja treba da olakša unos Parametara konekcije u Click mobile aplikaciju u slučaju smetnji kod korisnika veleprodaje.  
-[Preuzmi aplikaciju](http://ai2.appinventor.mit.edu/b/6hkp)
+[Preuzmi aplikaciju](https://github.com/boleco/VeleprodajniParametri.git)
+
+***
+ 
+# Android aplikacija Zamena modema
+  
+Aplikacija Zamena modema je android aplikacija koja treba da olakša čuvanje informacija o zamenjenim modemima (serijskim brojevima modema)
+ 
+[Preuzmi aplikaciju](https://github.com/boleco/Zamena_modema.git)
 
 ***
 # Podesavanja za mobilni internet na mobilnim telefonima
