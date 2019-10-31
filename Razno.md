@@ -65,7 +65,7 @@ Aplikacija VeleprodajniParametri je android aplikacija koja treba da olakša uno
   
 Aplikacija Zamena modema je android aplikacija koja treba da olakša čuvanje informacija o zamenjenim modemima (serijskim brojevima modema)
  
-[Preuzmi aplikaciju](https://github.com/boleco/Zamena_modema.git)
+[Preuzmi aplikaciju](https://github.com/boleco/Zamena_modema/blob/master/Zamena_modema.apk)
 
 ***
 # Podesavanja za mobilni internet na mobilnim telefonima
